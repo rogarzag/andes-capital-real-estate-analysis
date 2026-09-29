@@ -19,13 +19,13 @@ The Tableau story is organized into three views:
 ## Dashboard Preview
 
 ### Executive Overview
-![Executive Overview](images/executive-overview.png)
+![Executive Overview](images/executive-overview.jpg)
 
 ### Commercial Analysis
-![Commercial Analysis](images/commercial-analysis.png)
+![Commercial Analysis](images/commercial-analysis.jpg)
 
 ### Customer Cohort Analysis
-![Customer Cohort Analysis](images/customer-cohort-analysis.png)
+![Customer Cohort Analysis](images/customer-cohort-analysis.jpg)
 
 ## Key Metrics
 
