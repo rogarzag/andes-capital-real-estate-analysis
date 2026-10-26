@@ -22,19 +22,11 @@ Three complementary views were developed:
 - **Commercial Analysis:** deeper analysis of property types, sales channels, customer segments, and commercial performance.
 - **Customer Cohort Analysis:** analysis of acquisition cohorts and repeat-purchase behavior over time.
 
-## Decision Brief
+## Executive Summary
 
-**Decision supported:** choose where to investigate channel concentration, property mix, and customer acquisition before committing commercial resources.
+Andes Capital recorded **$6.01B in revenue from 8,500 sales**. Brokers accounted for approximately **73% of revenue**, and First-Time Buyers for approximately **63%**. Property types played different roles: Houses led revenue, Commercial properties led average ticket, and Apartments led sales volume.
 
-| Evidence from the analysis | Business implication | Recommended action | How to evaluate the next step |
-|---|---|---|---|
-| Brokers account for approximately 73% of revenue. | Revenue is concentrated in one channel; revenue share alone does not establish channel profitability. | Compare Broker and Direct channels on commission, acquisition cost, and contribution before testing a change in channel mix. | Monitor channel revenue share, contribution after channel costs, and acquisition cost where available. |
-| Houses lead revenue, Commercial properties lead average ticket, and Apartments lead sales volume. | Category rankings reflect different commercial objectives; the highest ticket is not necessarily the best return. | Compare volume, ticket, commission, and available cost data by property type before allocating sales effort. | Track sales volume, average ticket, and contribution by property type where costs are available. |
-| First-Time Buyers account for approximately 63% of revenue. | This segment is commercially important, but its revenue share does not show acquisition efficiency. | Compare acquisition cost and subsequent purchasing with other segments before expanding acquisition spend. | Monitor new-buyer sales and acquisition cost, alongside repeat-purchase rates over comparable periods. |
-| Initial cohort sales range from 224 in January 2023 to 26 in December 2024. | The difference warrants investigation; sales counts alone do not demonstrate an acquisition or retention decline. | Check cohort definitions, transaction coverage, cohort size, and comparable observation windows before interpreting the pattern. | Compare acquisition counts and age-aligned repeat-purchase rates after validation. |
-| Revenue peaks appear around March–April and September–November. | The two-year pattern can inform a planning hypothesis, but does not establish durable seasonality. | Compare the pattern by year, city, and property type before testing campaign timing. | Monitor monthly sales and revenue against comparable prior-year periods. |
-
-**Suggested priority:** assess channel economics and validate the cohort comparison before expanding acquisition or changing channel investment. These actions are proposals; their effects were not measured.
+The results help identify commercial priorities, but they do not establish which channel or customer segment is the most profitable.
 
 ## 📈 Executive Overview
 
@@ -77,14 +69,23 @@ Three complementary views were developed:
 - The Broker channel and First-Time Buyers represented the largest shares of revenue.
 - Newer cohorts showed lower initial sales than early-2023 cohorts, while repeat purchasing remained visible over time.
 
-## Interpretation & Limitations
+## Recommendations Based on the Findings
 
-- This project was developed within the TripleTen training program; the recommendations were not implemented.
-- Revenue, sales, ticket, and commission describe commercial performance. Commission alone is insufficient to establish total costs or net profitability.
-- Differences between channels, segments, and property types are descriptive associations, not causal explanations.
-- Cohort sales counts are not normalized retention rates. Compare cohorts at equivalent ages and account for cohort size and available follow-up.
-- Two years of observations support a tentative seasonal hypothesis, not a reliable long-term forecast.
-- Monetary values follow the source workbook; currency denomination is not established in this README.
+| Finding | Business meaning | Recommendation |
+|---|---|---|
+| Brokers generate approximately 73% of revenue. | Most revenue depends on this channel. | Prioritize follow-up on Broker performance and compare its revenue trend with Direct sales. |
+| Houses lead revenue, Commercial properties lead ticket, and Apartments lead volume. | Each property type contributes differently to sales performance. | Use these differences when setting commercial priorities, distinguishing revenue, ticket, and volume objectives. |
+| First-Time Buyers generate approximately 63% of revenue. | New buyers are an important part of the observed sales mix. | Monitor this segment alongside repeat buyers when reviewing sales priorities. |
+| Recent cohorts have fewer initial sales than early-2023 cohorts. | The cohort view highlights a change that deserves further review. | Compare initial sales separately from repeat purchases; lower sales counts alone do not demonstrate lower retention. |
+| Revenue peaks appear around March–April and September–November. | Sales activity varies across the observed months. | Use these periods as a reference for commercial planning and check whether the pattern continues. |
+
+**Main takeaway:** focus commercial monitoring on the Broker channel and First-Time Buyers, while using property-type differences to distinguish revenue and volume opportunities.
+
+## Scope of the Results
+
+- These are proposed actions based on the 2023–2024 dashboard; their business impact was not measured.
+- Revenue share and average ticket do not establish profitability. Cohort sales counts do not by themselves measure retention.
+- The monthly patterns describe the two years analyzed and should not be treated as guaranteed future demand.
 
 ## 🛠 Tools
 
